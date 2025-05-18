@@ -9,7 +9,7 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
 <Layout title='The Imperial Realm' description='A news portal for Imperial Diplomacy'>
 
     {posts.toReversed().map(post => (
-    <a href={`./${post.id}`} class="post-link">
+    <a href={`/imperialrealm/${post.id}`} class="post-link">
         <section>
             <h2 class="title">{post.data.title}</h2>
             <div class="band">
@@ -33,7 +33,7 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
         <p class="description">Do you want to add an article to the Imperial Realm? You are welcome to do so! Please
             submit it on <a href="https://discord.gg/invite/imperial-diplomacy-1201167737163104376">discord</a>. </p>
         <p class="description">If you want a style guide of what is possible with this template, check out our
-            <a href="./template">Template</a>.
+            <a href="/imperialrealm/template">Template</a>.
         </p>
     </section>
 

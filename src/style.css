@@ -4,7 +4,9 @@ body {
     justify-items: center;
 }
 
-main {
+main,
+header,
+.banner {
     max-width: 1200px;
     width: 100%;
 }
@@ -113,6 +115,11 @@ img {
     margin-bottom: 2rem;
     margin-top: 1rem;
     /*   Special font   */
+}
+
+header,
+.banner {
+    width: 100%;
 }
 
 .astro-code {
