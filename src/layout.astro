@@ -2,14 +2,15 @@
 import './style.css';
 
 interface Props {
-title: string;
-description: string;
+    title: string,
+    description: string,
+    author?: string,
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const SITE_TITLE = 'The Imperial Realm';
 const SITE_DESCRIPTION = 'A news portal for Imperial Diplomacy';
-const { title, description } = Astro.props;
+const { title, description, author } = Astro.props;
 ---
 
 <html lang="en">
@@ -36,13 +37,14 @@ const { title, description } = Astro.props;
     <meta property="og:url" content={Astro.url} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:site_name" content="{author}" />
 
 </head>
 
 <body>
     <header>
         <div id="navbar"></div>
-        <script src="/navbar-loader.js"></script>
+        <script is:inline src="/navbar-loader.js"></script>
         <img src="/imperialrealm/banner.png" alt="The Imperial Realm banner with it's name'">
     </header>
     <main>
