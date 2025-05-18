@@ -34,4 +34,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           remoteDir: /
-          localDir: /dist
+          localDir: /home/runner/work/the-imperial-realm/the-imperial-realm/dist/
