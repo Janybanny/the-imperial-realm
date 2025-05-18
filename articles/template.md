@@ -30,7 +30,7 @@ Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sap
 
 Images always need an alternative text for accessibility.
 
-![a meme about Imperial Diplomacy openings](/opening.jpg)
+![a meme about Imperial Diplomacy openings](../opening.jpg)
 
 ## Seperators
 
