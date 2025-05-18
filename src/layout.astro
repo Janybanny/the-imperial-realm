@@ -1,0 +1,58 @@
+---
+import './style.css';
+
+interface Props {
+title: string;
+description: string;
+}
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const SITE_TITLE = 'The Imperial Realm';
+const SITE_DESCRIPTION = 'A news portal for Imperial Diplomacy';
+const { title, description } = Astro.props;
+---
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site)} />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Font preloads -->
+    <!--<link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />-->
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Primary Meta Tags -->
+    <title>{SITE_TITLE}</title>
+    <meta name="title" content={title} />
+    <meta name="description" content={description} />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+
+</head>
+
+<body>
+    <header>
+        <div>
+            <!--TODO add ImpDip header script-->
+        </div>
+        <img src="" alt="The Imperial Realm banner with it's name'">
+    </header>
+    <main>
+        <slot />
+    </main>
+    <footer>
+        <!--TODO add ImpDip footer script-->
+    </footer>
+</body>
+
+</html>
