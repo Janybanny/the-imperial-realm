@@ -18,7 +18,7 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
                 <p>{post.data.pubDate.toLocaleDateString('en-us', {year: 'numeric', month: 'short', day: 'numeric'})}
                 </p>
             </div>
-            <p class="description">{post.data.description}</p>
+            <p>{post.data.description}</p>
         </section>
     </a>
     ))}
@@ -30,11 +30,37 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
             <p>•</p>
             <p>first</p>
         </div>
-        <p class="description">Do you want to add an article to the Imperial Realm? You are welcome to do so! Please
-            submit it on <a href="https://discord.gg/invite/imperial-diplomacy-1201167737163104376">discord</a>. </p>
-        <p class="description">If you want a style guide of what is possible with this template, check out our
-            <a href="/imperialrealm/template">Template</a>.
-        </p>
-    </section>
+        <p>Do you want to add an article to the Imperial Realm? Awesome! There are 2 options:</p>
+        <ol>
+            <li>If you only want to give us the text and images and not worry about formatting, just send it to us on <a
+                    href="https://discord.gg/invite/imperial-diplomacy-1201167737163104376">discord</a>! This is the
+                easiest way to submit content.</li>
+            <li>If you want to help us a bit and format your own text before sending it to us, continue reading below.
+            </li>
+        </ol>
+        <h2>Formatting</h2>
 
+        <p>The Imperial Realm website is using Markdown for formatting. Check out the basic syntax <a
+                href="https://www.markdownguide.org/basic-syntax/">here</a> and see how it looks on the Imperial Realm
+            site <a href="https://imperialdiplomacy.com/imperialrealm/template/">here</a>.</p>
+
+        <p>With these basic rules, you can easily make your own text files, which then work on the Imperial Realm
+            website. For this, download the empty template file <a
+                href="https://raw.githubusercontent.com/Janybanny/the-imperial-realm/refs/heads/main/articles/empty.md"
+                download>here</a> and then add your content. Look out for the parameters at the top, you have to add the
+            metadata for the publication there. Make sure to add it inbetween the apostrophes. Write the text below, but
+            make sure to not add the title. This is automatically done from the title parameter.</p>
+
+        <p>You have to fill in:</p>
+
+        <ul>
+            <li>title</li>
+            <li>description</li>
+            <li>author</li>
+        </ul>
+
+
+
+        <p>That's it! Send us the file and we will proofread it and then add the article to the website.</p>
+    </section>
 </Layout>

@@ -73,6 +73,19 @@ Images always need an alternative text for accessibility.
 </html>
 ```
 
+```md
+---
+title: 'The title of the article'
+description: 'The description, which is displayed on the list of articles and in the embed when you share
+the article'
+author: 'your name'
+pubDate: 2020-02-20
+published: false
+---
+
+Your article text goes here
+```
+
 ## Lists
 
 ### Ordered List

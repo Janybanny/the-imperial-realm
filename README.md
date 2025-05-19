@@ -10,13 +10,7 @@ You have an article and want to add it to the website? Awesome! There are 3 opti
 
 The Imperial Realm website is using Markdown for formatting. Check out the basic syntax [here](https://www.markdownguide.org/basic-syntax/) and see how it looks on the Imperial Realm site [here](https://imperialdiplomacy.com/imperialrealm/template/).
 
-With these basic rules, you can easily make your own text files, which then work on the Imperial Realm website. For this, download the empty template file 
-
-[here](https://raw.githubusercontent.com/Janybanny/the-imperial-realm/refs/heads/main/articles/empty.md) 
-
-<a href="https://raw.githubusercontent.com/Janybanny/the-imperial-realm/refs/heads/main/articles/empty.md" download>here</a>
-
-and then add your content. Look out for the parameters at the top, you have to add the metadata for the publication there. See the example below on how to fill this. Write the text below, but make sure to not add the title. This is automatically done from the title parameter.
+With these basic rules, you can easily make your own text files, which then work on the Imperial Realm website. For this, download the empty template file [here](https://raw.githubusercontent.com/Janybanny/the-imperial-realm/refs/heads/main/articles/empty.md) and then add your content. Look out for the parameters at the top, you have to add the metadata for the publication there. See the example below on how to fill this. Write the text below, but make sure to not add the title. This is automatically done from the title parameter.
 
 You have to fill in: 
 
