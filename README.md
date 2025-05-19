@@ -1,47 +1,41 @@
-# Astro Starter Kit: Minimal
+# Imperial Realm Contribution Guide
 
-```sh
-pnpm create astro@latest -- --template minimal
+You have an article and want to add it to the website? Awesome! There are 3 options:
+
+1. If you only want to give us the text and images and not worry about formatting, just send it to us on discord! This is the easiest way to submit content.
+2. If you want to help us a bit and format your own text before sending it to us, continue reading below.
+3. If you think of contributing frequently, you can make a github account and contribute them directly. For this, please submit a few articles first and then message us on discord about it.
+
+## Formatting
+
+The Imperial Realm website is using Markdown for formatting. Check out the basic syntax [here](https://www.markdownguide.org/basic-syntax/) and see how it looks on the Imperial Realm site [here](https://imperialdiplomacy.com/imperialrealm/template/).
+
+With these basic rules, you can easily make your own text files, which then work on the Imperial Realm website. For this, download the empty template file 
+
+[here](https://raw.githubusercontent.com/Janybanny/the-imperial-realm/refs/heads/main/articles/empty.md) 
+
+<a href="https://raw.githubusercontent.com/Janybanny/the-imperial-realm/refs/heads/main/articles/empty.md" download>here</a>
+
+and then add your content. Look out for the parameters at the top, you have to add the metadata for the publication there. See the example below on how to fill this. Write the text below, but make sure to not add the title. This is automatically done from the title parameter.
+
+You have to fill in: 
+
+- title
+- description
+- author
+
+Make sure that you add the parameters inbetween the apostrophes.
+
+```md
+---
+title: 'The title of the article'
+description: 'The description, which is displayed on the list of articles and in the embed when you share the article'
+author: 'your name'
+pubDate: 2020-02-20
+published: false
+---
+
+Your article text goes here
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+That's it! We will proofread and then add the article to the website. 

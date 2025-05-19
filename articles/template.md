@@ -6,7 +6,7 @@ pubDate: 2025-05-17
 published: false
 ---
 
-Here is a sample of the styles that can be used when writing Imperial Realm content.
+Here is a sample of the styles that can be used when writing Imperial Realm content. Check out the Markdown "code" [here](https://github.com/Janybanny/the-imperial-realm/blob/main/articles/template.md?plain=1).
 
 ## Headings
 
