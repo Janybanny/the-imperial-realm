@@ -5,7 +5,6 @@ body {
 }
 
 main,
-header,
 .banner {
     max-width: 1200px;
     width: 100%;
@@ -117,9 +116,10 @@ img {
     /*   Special font   */
 }
 
-header,
-.banner {
-    width: 100%;
+/*navbar on whole width*/
+header {
+    width: 100vh;
+    box-sizing: border-box;
 }
 
 .astro-code {
