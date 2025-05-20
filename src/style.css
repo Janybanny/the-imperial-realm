@@ -14,7 +14,8 @@ main,
 
 section,
 article {
-    background-image: url("./bg.png");
+    background-image: url("/imperialrealm/bg.png");
+    background-repeat: repeat;
     box-shadow: rgba(0, 0, 0, 0.24) 4px -6px 10px;
     padding: 1rem;
 }
