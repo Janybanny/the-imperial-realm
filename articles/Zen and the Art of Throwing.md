@@ -9,7 +9,7 @@ published: false
 The act of “throwing” has sparked significant debate in the world of Imperial Diplomacy, both in the abstract on the main server and in various game servers as a response to some players’ actions. My goal in this article is to define the term, provide a summary of the issue, and give my own opinion on the topic.
 
 ### Definition
-
+![is this throwing](/imperialrealm/zen-and-the-art-of-throwing/throwingmeme.jpg)
 I believe that throwing can generally be defined as “a player deliberately aiding another player’s chances of victory at the expense of their own position and center count.” This action is not explicitly prohibited by the ImpDip Player Guide. There is incredible nuance in application of this definition based on the game’s year, board situation, and player interactions. 
 
 ### Arguments For/Against
