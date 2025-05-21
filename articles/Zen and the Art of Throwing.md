@@ -3,7 +3,7 @@ title: 'Zen and the Art of "Throwing"'
 description: 'A template for new posts with all the features that are available.'
 author: 'MichaelC'
 pubDate: 2025-05-20
-published: false
+published: true
 ---
 
 The act of “throwing” has sparked significant debate in the world of Imperial Diplomacy, both in the abstract on the main server and in various game servers as a response to some players’ actions. My goal in this article is to define the term, provide a summary of the issue, and give my own opinion on the topic.
