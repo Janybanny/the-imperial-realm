@@ -1,6 +1,6 @@
 ---
 title: 'Zen and the Art of "Throwing"'
-description: 'One Player's Take on the Never-ending Throwing Debate'
+description: 'One Players Take on the Never-ending Throwing Debate'
 author: 'MichaelC'
 pubDate: 2025-05-20
 published: true
