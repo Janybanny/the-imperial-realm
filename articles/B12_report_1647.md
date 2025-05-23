@@ -15,7 +15,7 @@ published: false
 **B1.2 Zinnia**		Portugal leads at 75.0% and Athapasca was eliminated.
 **B1.2 Aster** 		England leads at 85.7%, but Spain is in blocking position at 68.8% and Ottoman Gained 8 centers to reach 68.4%. Inuit gained 6 centers as Russia was eliminated.
 **B1.2 Bluebell**	The lead is tightly contested by Poland (65.7%), Spain (64.6%), Russia (58.3%), and Mapuche (57.1%). No players have been eliminated.
-**B1.2 Chrysanthemum** 	Strong Regional powers have resulted in an interesting leaderboard: Qing and PLC are tied at 68.8% while Kongo is close behind at64.3%. PLC gained 4 centers for the third year running. Ajuuraan and Tokugawa were eliminated.
+**B1.2 Chrysanthemum** 	Strong Regional powers have resulted in an interesting leaderboard: Qing and PLC are tied at 68.8% while Kongo is close behind at 64.3%. PLC gained 4 centers for the third year running. Ajuuraan and Tokugawa were eliminated.
 **B1.2 Dhalia** 	Spain gained 9 centers to take the lead at 79.2% followed by Athapasca at 67.9% as Netherlands dropped to third place with 64.3%. No new players were eliminated.
 **B1.2 Echeveria** 	Netherlands dropped 8 centers to fall to tied third place with Athapasca at 64.3% behind Aymara (67.9%) and France (66.7%). Ajuuran was eliminated.
 **B1.2 Fuchsia** 	Ming gained 7 centers to maintain the lead at 90.3% while Spain trails with 75.0%. Aymara and Tokugawa were eliminated.
