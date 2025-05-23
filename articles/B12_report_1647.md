@@ -1,3 +1,10 @@
+---
+title: 'B1.2 Report - 1647'
+description: 'Graphics and Summary of games in patch B1.2'
+author: 'Petey'
+pubDate: 2025-05-23
+published: false
+---
 # B1.2 Report - 1647
 ![VSCC% box/swarmplot for each power](/graphics/1.2_1647_Boxes_VSCC.png)
 **B1.2 Ursinia**  Ottoman leads at 94.7% while Mapuche holds second at 57.1%. England gained 6 centers while Austria was eliminated.
