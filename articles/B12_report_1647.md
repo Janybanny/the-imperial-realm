@@ -8,7 +8,7 @@ published: false
 # B1.2 Report - 1647
 3
 ![VSCC% box/swarmplot for each power](/b12_report_1647/1647_count.png)
-![image](/b12_report_1647/1647_count.png)
+![image](/imperialrealm/b12_report_1647/1647_count.png)
 ![image2](/zen-and-the-art-of-throwing/throwingmeme.jpg)
 **B1.2 Ursinia** Ottoman leads at 94.7% while Mapuche holds second at 57.1%. England gained 6 centers while Austria was eliminated.
 
