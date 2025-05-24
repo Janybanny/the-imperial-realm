@@ -6,7 +6,9 @@ pubDate: 2025-05-23
 published: false
 ---
 # B1.2 Report - 1647
-![VSCC% box/swarmplot for each power](/imperialrealm/b12_report_1647/1647_VSCC.png)
+![VSCC% box/swarmplot for each power](/imperialrealm/graphics/1647__boxes_VSCC.png)
+
+![Center count box/swarmplot for each power](/imperialrealm/b12_report_1647/1647_count.png)
 
 **B1.2 Ursinia** Ottoman leads at 94.7% while Mapuche holds second at 57.1%. England gained 6 centers while Austria was eliminated.
 
@@ -40,7 +42,7 @@ published: false
 
 **Angle Invitational** 	Added to report. Netherlands widened their lead over France and reached 92.9%. Russia, Ming, Guarani, and Kongo have been eliminated.
 
-![Center count box/swarmplot for each power](/imperialrealm/b12_report_1647/1647_count.png)
+![Top 5 Leaderboard](/imperialrealm/graphics/1647_top5.png)
 
 ### Analysis
 Spain and Netherlands remain the best performing colonial powers. Despite some high-performing games, France appears weak with a sub-zero median VSCC%. Ajuuraan and Guarani still appear to be the weakest powers, but clusters of stronger games have inspired discussions of bi-modality. Russia and Guarani have been eliminated five times each followed by Austria and Tokugawa at 4 eliminatations.
