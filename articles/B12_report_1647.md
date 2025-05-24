@@ -40,7 +40,7 @@ published: false
 
 **Angle Invitational** 	Added to report. Netherlands widened their lead over France and reached 92.9%. Russia, Ming, Guarani, and Kongo have been eliminated.
 
-![Center count box/swarmplot for each power](/imperialrealm/b12_report_1647/1647_VSCC.png)
+![Center count box/swarmplot for each power](/imperialrealm/b12_report_1647/1647_count.png)
 
 ### Analysis
 Spain and Netherlands remain the best performing colonial powers. Despite some high-performing games, France appears weak with a sub-zero median VSCC%. Ajuuraan and Guarani still appear to be the weakest powers, but clusters of stronger games have inspired discussions of bi-modality. Russia and Guarani have been eliminated five times each followed by Austria and Tokugawa at 4 eliminatations.
