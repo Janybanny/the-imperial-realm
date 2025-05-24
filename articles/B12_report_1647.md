@@ -6,7 +6,7 @@ pubDate: 2025-05-23
 published: false
 ---
 # B1.2 Report - 1647
-![VSCC% box/swarmplot for each power](/graphics/1.2_1647_Boxes_VSCC.png)
+![VSCC% box/swarmplot for each power](/b12_report_1647/1.2_1647_Boxes_VSCC.png)
 **B1.2 Ursinia**  Ottoman leads at 94.7% while Mapuche holds second at 57.1%. England gained 6 centers while Austria was eliminated.
 **B1.2 Violet**  	Netherlands leads PLC 88.1% to 74.3% and France dropped to 69.0%. Guarani gained 5 centers and Inuit was eliminated.
 **B1.2 Wallflower** 	Removed from report
