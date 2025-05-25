@@ -5,7 +5,7 @@ author: 'Petey'
 pubDate: 2025-05-25
 published: false
 ---
-![dashboard](/imperialrealm/graphics/dashboard.png)
+![dashboard](/imperialrealm/graphics/dashboard2.png)
 
 Updated: 24 May 2025
 
