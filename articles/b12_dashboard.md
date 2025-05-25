@@ -3,7 +3,7 @@ title: 'B1.2 Dashboard'
 description: 'One-stop shop for info on B1.2 games'
 author: 'Petey'
 pubDate: 2025-05-25
-published: false
+published: true
 ---
 ![dashboard](/imperialrealm/graphics/dashboard2.png)
 
