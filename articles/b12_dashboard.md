@@ -21,7 +21,7 @@ Updated: 24 May 2025
 
 **B1.2 Chrysanthemum** Winter 1649
 
-**B1.2 Dhalia** Spring 1649
+**B1.2 Dahlia** Spring 1649
 
 **B1.2 Echeveria** 	Fall 1649
 
