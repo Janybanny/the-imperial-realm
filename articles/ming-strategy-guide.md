@@ -9,7 +9,7 @@ This guide is for the current state of the Ming in B1.2/B1.3, as well as anticip
 
 ## Starting Position:
 
-![Ming starting position in the game](/imperialrealm/ming-strategy/startingpos.png)
+![Ming starting position in the game](/imperialrealm/ming-strategy-guide/startingpos.png)
 
 Ming starts with 5 units, in a relatively open position, not shoehorned into any particular path but neither super flexible. On the B1.2 Map, your starting cores are Chengdu, Kunming, Lanzhou, Nanjing, and Peking. Your opening is going to be highly press-dependent of course, but there's a few things to keep in mind.
 
@@ -110,7 +110,7 @@ Nanjing - East China Sea
 Peking - Yellow Sea
 - Qing is a friend who will give us Hanyang. If Qing is instead dumb enough to attack, you can ally Russia against them and sack Peking for now, and Qing will have a bad time.
 
-![Suggested Ming moves in y1](/imperialrealm/ming-strategy/paths.png)
+![Suggested Ming moves in y1](/imperialrealm/ming-strategy-guide/paths.png)
 
 
 ### Zooming out: Preferred centers and builds.
@@ -125,7 +125,7 @@ The Fleet in Peking should always want to grab Hanyang. Bouncing in Beizhili Sea
 
 Thus, the object of our opening is to set up our Army in Kunming and our Fleet in Nanjing for builds.
 
-![Possible gains for Ming in y1](/imperialrealm/ming-strategy/paths2.png)
+![Possible gains for Ming in y1](/imperialrealm/ming-strategy-guide/paths2.png)
 
 This is generally why in a vacuum, the opening is just. Strong. Qing as an ally is all you should need to get 4 builds, and Qing is of your regional neighbors the best one to ally.
 
@@ -155,7 +155,7 @@ You and Qing break each other through key bottlenecks, and even at peak your bor
 
 Most positions get close to a win and then make up the last few centers on a winning front. While this example map is not going to be exactly what you do, it's a possible 36 centers that can be feasibly attained in even a fast game. Do be aware that if you’re significantly faster than Qing, you may have to cede the steppes (Turfan, Yarkand, and everything else North of Kabul and West of Lanzhou). Instead, you can just push further into Borneo and into Sulawesi.
 
-![Outline for a Ming win position with a Qing alliance](/imperialrealm/ming-strategy/winoutline.png)
+![Outline for a Ming win position with a Qing alliance](/imperialrealm/ming-strategy-guide/winoutline.png)
 
 ### Balanced Approach: Mughal Alliance
 
@@ -169,7 +169,7 @@ The crux of the attack here is wrapping up Russia's Far East fast for your benef
 
 A similar potential position, for a Mughal alliance.
 
-![Outline for a Ming win position with a Mughals alliance](/imperialrealm/ming-strategy/winoutlinemughals.png)
+![Outline for a Ming win position with a Mughals alliance](/imperialrealm/ming-strategy-guide/winoutlinemughals.png)
 
 ### Unbalanced Approach: No Allies, Just Targets
 
@@ -183,7 +183,7 @@ Ming's tempo potential is truly insanity. 42 centers lay just 3 moves from the M
 
 This is my own game (1648), the only center further than 3 moves from the Ming starting cores is Nakhon Si, and if this game was somehow kept going, the position snowballs further out of control.
 
-![Outline for a Ming win position without an alliance](/imperialrealm/ming-strategy/winoutlineneutral.png)
+![Outline for a Ming win position without an alliance](/imperialrealm/ming-strategy-guide/winoutlineneutral.png)
 
 So, why isn't it possible for everyone?
 
