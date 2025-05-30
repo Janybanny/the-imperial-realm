@@ -7,7 +7,7 @@ published: true
 ---
 ![dashboard](/imperialrealm/graphics/dashboard5.png)
 
-Updated: 27 May 2025
+Updated: 30 May 2025
 
 ## Active Games
 
