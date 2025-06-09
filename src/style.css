@@ -10,23 +10,29 @@ main,
 .banner {
     max-width: 1200px;
     width: 100%;
+    background-image: url("/imperialrealm/bg.png");
+    background-repeat: repeat;
 }
 
 section,
 article {
     background-image: url("/imperialrealm/bg.png");
     background-repeat: repeat;
-    box-shadow: rgba(0, 0, 0, 0.24) 4px -6px 10px;
     padding: 1rem;
 }
 
-a:nth-child(1)>section {
-    box-shadow: rgba(0, 0, 0, 0.24) 2px -6px 10px;
+section {
+  mask:
+    linear-gradient(180deg,#0000 .4rem,#000 0),
+    radial-gradient(.4rem,#000 calc(100% - 1px),#0000) top/0.74rem 0.8rem
+}
+.post-link:nth-child(1) {
+    filter: drop-shadow(2px -6px 10px rgba(0, 0, 0, 0.24));
 
 }
 
-a:nth-child(2)>section {
-    box-shadow: rgba(0, 0, 0, 0.24) 3px -6px 10px;
+.post-link:nth-child(2) {
+    filter: drop-shadow(3px -6px 10px rgba(0, 0, 0, 0.24));
 
 }
 
@@ -37,7 +43,7 @@ article {
 
 /* Footnotes */
 article>section {
-    box-shadow: none;
+    filter: none;
     padding: 0;
     margin-top: 2em;
     border-top: solid #444444;
@@ -96,6 +102,8 @@ img {
 .post-link {
     text-decoration: none;
     color: black;
+    filter: drop-shadow(4px -6px 10px rgba(0, 0, 0, 0.24));
+    display: inline;
 }
 
 .band {
