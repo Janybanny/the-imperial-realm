@@ -3,7 +3,7 @@ title: 'Ming Strategy guide'
 description: 'Ming Strategy guide for B1.2/B1.3, including first year moves, Impunity options and ally suggestions'
 author: 'Samantha F'
 pubDate: 2025-06-04
-published: false
+published: true
 ---
 This guide is for the current state of the Ming in B1.2/B1.3, as well as anticipating future changes. I am open to feedback and comments of course.
 
