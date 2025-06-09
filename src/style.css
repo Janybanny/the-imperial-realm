@@ -4,6 +4,7 @@ body {
     justify-items: center;
     margin: 0;
     padding: 0;
+    background-image: url("/images/homebanner.png");
 }
 
 main,
