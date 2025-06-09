@@ -10,7 +10,7 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
 <Layout title='The Imperial Realm' description='A news portal for Imperial Diplomacy'>
 
     {posts.toReversed().map(post => (
-    <a href={`/imperialrealm/${post.id}`} class="post-link">
+    <a href={`/imperialrealm/${post.id}`} class="article-wrapper">
         <section>
             <h2 class="title">{post.data.title}</h2>
             <div class="band">
@@ -24,7 +24,7 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
     </a>
     ))}
 
-    <div class="post-link">
+    <div class="article-wrapper">
     <section>
         <h2 class="title">How to add an article to the Imperial Realm</h2>
         <div class="band">
