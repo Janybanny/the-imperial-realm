@@ -8,7 +8,7 @@ body {
 
 main,
 .banner {
-    max-width: 1200px;
+    max-width: 1000px;
     width: 100%;
     background-image: url("/imperialrealm/bg.png");
     background-repeat: repeat;
