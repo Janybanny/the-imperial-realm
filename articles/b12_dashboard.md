@@ -1,6 +1,6 @@
 ---
-title: 'B1.2 Dashboard'
-description: 'One-stop shop for info on B1.2 games'
+title: 'B1.2-B1.3 Dashboard'
+description: 'One-stop shop for info on B1.2 and B1.3 games'
 author: 'Petey'
 pubDate: 2025-05-25
 published: true
