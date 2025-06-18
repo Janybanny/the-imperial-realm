@@ -19,13 +19,13 @@ Updated: 18 June 2025
 
 **B1.3 Jacaranda** Spring 1649
 
-**1.3 Kalmia** Spring 1649
+**B1.3 Kalmia** Spring 1649
 
-**1.3 Lily** Spring retreats 1649
+**B1.3 Lily** Spring retreats 1649
 
-**1.3.1 Marigold** Spring 1646
+**B1.3.1 Marigold** Spring 1646
 
-**1.3 Orchid** Spring 1649
+**B1.3 Orchid** Spring 1649
 
 ## Completed Games
 
@@ -55,4 +55,4 @@ Updated: 18 June 2025
 
 **B1.2 Iris** Kongo solo 1651
 
-**1.3 Nemisia** England, Netherlands, France impunity 1649
+**B1.3 Nemisia** England, Netherlands, France impunity 1649
