@@ -5,27 +5,21 @@ author: 'Petey'
 pubDate: 2025-05-25
 published: true
 ---
-![dashboard](/imperialrealm/graphics/dashboard9.png)
+![dashboard](/imperialrealm/graphics/dashboard10.png)
 
 Updated: 18 June 2025
 
 ## Active Games
 
-**B1.2 Violet** Winter 1652
+**B1.2 Violet** Fall 1654
 
-**B1.2 Bluebell**	Spring retreats 1652
+**B1.2 Bluebell**	Spring 1653
 
-**Angle Invitational** Spring 1651
-
-**B1.3 Jacaranda** Spring 1649
-
-**B1.3 Kalmia** Spring 1649
+**Angle Invitational** Winter 1652
 
 **B1.3 Lily** Spring retreats 1649
 
 **B1.3.1 Marigold** Spring 1646
-
-**B1.3 Orchid** Spring 1649
 
 ## Completed Games
 
@@ -55,4 +49,10 @@ Updated: 18 June 2025
 
 **B1.2 Iris** Kongo solo 1651
 
+**B1.3 Jacaranda** Ayutthaya Solo 1650
+
+**B1.3 Kalmia** England Solo 1649
+
 **B1.3 Nemisia** England, Netherlands, France impunity 1649
+
+**B1.3 Orchid** Ottoman, Ayutthaya, Kongo, and Qing impunity 1650
