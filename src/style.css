@@ -16,6 +16,9 @@ body {
     background-image: url("/images/homebanner.png");
     font-family: "Germania One";
 }
+main {
+    margin-top: 4rem;
+}
 
 main,
 .banner {
@@ -23,7 +26,6 @@ main,
     width: 100%;
     background-image: url("/imperialrealm/bg.png");
     background-repeat: repeat;
-    margin-top: 4rem;
 }
 
 section,
