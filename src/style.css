@@ -4,7 +4,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url(./GermaniaOne.woff2) format('woff2');
+    src: url(/imperialrealm/GermaniaOne.woff2) format('woff2');
 }
 
 body {
@@ -23,6 +23,7 @@ main,
     width: 100%;
     background-image: url("/imperialrealm/bg.png");
     background-repeat: repeat;
+    margin-top: 4rem;
 }
 
 section,
@@ -100,7 +101,7 @@ tr th:last-child {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 4rem;
     text-align: center;
 }
 
