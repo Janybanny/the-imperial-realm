@@ -28,6 +28,10 @@ main,
     background-repeat: repeat;
 }
 
+.banner-wrapper {
+    border-radius: 1em;
+}
+
 section,
 article {
     background-image: url("/imperialrealm/bg.png");

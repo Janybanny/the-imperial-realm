@@ -7,7 +7,9 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
 ---
 
 <Layout title='The Imperial Realm' description='A news portal for Imperial Diplomacy'>
-    <img class="banner" src="/imperialrealm/banner.webp" alt="The Imperial Realm banner with it's name">
+    <div class="banner-wrapper">
+        <img class="banner" src="/imperialrealm/banner.webp" alt="The Imperial Realm banner with it's name">
+    </div>
     {posts.toReversed().map(post => (
     <a href={`/imperialrealm/${post.id}`} class="article-wrapper">
         <section>
