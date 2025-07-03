@@ -1,7 +1,6 @@
 ---
 import Layout from '../layout.astro';
 import { getCollection } from 'astro:content';
-import ExampleCode from '../examplecode.astro';
 
 // get and filter posts to list published content
 const posts = await getCollection('blog', ({ data }) => {return data.published === true;});
@@ -60,8 +59,6 @@ const posts = await getCollection('blog', ({ data }) => {return data.published =
             <li>description</li>
             <li>author</li>
         </ul>
-
-        <ExampleCode />
 
         <p>That's it! Send us the file and we will proofread it and then add the article to the website.</p>
         <p>Thank you for contributing to the Imperial Realm!</p>

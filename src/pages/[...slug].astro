@@ -18,7 +18,7 @@ const { Content } = await render(post);
 <Layout title={post.data.title} description={post.data.description} author={post.data.author}>
     <div class="article-wrapper">
         <article>
-            <h1 class="title">{post.data.title}</h1>
+            <img class="banner" src="/imperialrealm/banner.webp" alt="The Imperial Realm banner with it's name">
             <div class="band">
                 <p><a class="post-link" href="/imperialrealm">🡠 All articles</a></p>
                 <p>•</p>
@@ -26,6 +26,7 @@ const { Content } = await render(post);
                 <p>•</p>
                 <p>{post.data.pubDate.toLocaleDateString('en-us', {year: 'numeric', month: 'short', day: 'numeric'})}</p>
             </div>
+            <h1>{post.data.title}</h1>
             <Content />
         </article>
     </div>
